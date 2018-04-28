@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, "9.0"
+target 'TestRac' do
+pod 'ReactiveObjC',  '~> 3.0.0'
+end
