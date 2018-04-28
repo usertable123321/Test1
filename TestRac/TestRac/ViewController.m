@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //1.创建信号
+    //1.创建信号   //////
     //创建一个数组
     RACSubject *subject = [RACSubject subject];
     //2.订阅信号
